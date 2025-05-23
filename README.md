@@ -2,7 +2,7 @@
 # Home:
 https://www.harmonyos.com/en/
 
-wiki:
+# wiki:
 - https://en.wikipedia.org/wiki/HarmonyOS
 - https://en.wikipedia.org/wiki/OpenHarmony
 - https://en.wikipedia.org/wiki/HarmonyOS_NEXT
@@ -11,5 +11,10 @@ wiki:
 - https://en.wikipedia.org/wiki/ArkTS
 - https://en.wikipedia.org/wiki/Ark_Compiler
 - https://en.wikipedia.org/wiki/EMUI
+- https://en.wikipedia.org/wiki/Huawei_Mobile_Services
+- https://en.wikipedia.org/wiki/Huawei_AppGallery
+
+## relation:
+- https://en.wikipedia.org/wiki/Huawei
 
 sch: https://www.google.com/search?q=Huawei+HarmonyOS
