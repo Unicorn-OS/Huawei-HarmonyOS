@@ -2,6 +2,9 @@
 # Home:
 https://www.harmonyos.com/en/
 
+## Developer portal
+https://developer.huawei.com/consumer/cn/
+
 # wiki:
 - https://en.wikipedia.org/wiki/HarmonyOS
 - https://en.wikipedia.org/wiki/OpenHarmony
