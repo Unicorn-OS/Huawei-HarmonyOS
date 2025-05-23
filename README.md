@@ -14,8 +14,5 @@ https://www.harmonyos.com/en/
 - https://en.wikipedia.org/wiki/Huawei_Mobile_Services
 - https://en.wikipedia.org/wiki/Huawei_AppGallery
 
-## relation:
-- https://en.wikipedia.org/wiki/Huawei
-  - https://en.wikipedia.org/wiki/United_States_sanctions_against_China#Ban_of_Huawei_and_ZTE_equipment
 
 sch: https://www.google.com/search?q=Huawei+HarmonyOS
