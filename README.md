@@ -3,7 +3,7 @@
 https://www.harmonyos.com/en/
 
 ## Developer portal
-https://developer.huawei.com/consumer/cn/
+https://developer.huawei.com/consumer/cn/ [English](https://developer.huawei.com/consumer/en/)
 
 # wiki:
 - https://en.wikipedia.org/wiki/HarmonyOS
