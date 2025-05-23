@@ -13,6 +13,7 @@ https://www.harmonyos.com/en/
 - https://en.wikipedia.org/wiki/EMUI
 - https://en.wikipedia.org/wiki/Huawei_Mobile_Services
 - https://en.wikipedia.org/wiki/Huawei_AppGallery
+- https://en.wikipedia.org/wiki/EROFS
 
 
 sch: https://www.google.com/search?q=Huawei+HarmonyOS
